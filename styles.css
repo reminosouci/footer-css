@@ -3,18 +3,13 @@ html, body {
   margin: 0;
 }
 .content {
-  padding: 20px;
   min-height: 100%;
-  margin: 0 auto 50px;
-  overflow:auto;
-  padding-bottom: 50px;
 }
 .content-inside {
   padding: 20px;
   padding-bottom: 50px;
 }
-.footer,
-.push {
+.footer {
   height: 50px;
   margin-top: -50px;
 }
