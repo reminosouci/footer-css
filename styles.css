@@ -14,5 +14,6 @@ html, body {
   height: 50px;
 }
 .footer{
+  position: relative;
   margin-top: -50px;
 }
