@@ -7,9 +7,12 @@ html, body {
   min-height: 100%;
   margin: 0 auto 50px;
   overflow:auto;
-	padding-bottom: 50px;
+  padding-bottom: 50px;
 }
 .footer,
 .push {
   height: 50px;
+}
+.footer{
+  margin-top: -50px;
 }
